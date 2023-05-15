@@ -8,7 +8,7 @@
 
 ## Description
 
-Testing API part of a project by using Spring Boot framework, JUnit, Mockito, MockMvc, H2 Embedded DB and SQL. I have experience in testing REST API's by using Rest Assured and now I found a new way of doing that with Spring Boot and to be honest I found it very useful and easy
+Testing API part of a project by using Spring Boot framework, JUnit, Mockito, MockMvc, H2 Embedded DB and SQL. I have experience in testing REST API's by using Rest Assured and now I found a new way of doing that with Spring Boot and to be honest I found it very useful and easy.
 
 
 ## How to Install and Run the Project
